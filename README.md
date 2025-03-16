@@ -17,3 +17,6 @@ Frontend Teknolojileri:
 ⚙️ JavaScript: Sayfa etkileşimleri ve dinamik işlemler için kullanıldı.
 ⚛️ React.js: Kullanıcı arayüzünü oluşturmak ve yönetmek için kullanıldı.
 🔗 Axios: API istekleri yapmak için kullanıldı.
+
+🌟 Canlı Demo 🌟
+https://animated-croquembouche-b5f877.netlify.app/
